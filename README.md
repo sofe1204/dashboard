@@ -1,7 +1,5 @@
 # AI Startup Dashboard
 
-[https://dashboard-ai-pied.vercel.app/](https://dashboard-ai-pied.vercel.app/)
-
 ## Made with:
 
 - TypeScript
